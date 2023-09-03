@@ -16,7 +16,7 @@ GET http://localhost:3000/auth/2
 GET http://localhost:3000/auth?email=test@test.com
 
 
-### remove a user
+### remove a user``
 DELETE  http://localhost:3000/auth/1
 
 
